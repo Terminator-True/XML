@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PC [
+
+<!ELEMENT PC (components)>
+    <!ELEMENT components (component)
+        <!ELEMENT component (Marca,preu,Velocitat_de_relotge,nuclis,Gigabytes,socket,Wats)
+            <!ATTLIST component category NMTOKEN #REQUIRED>
+            <!ELEMENT Marca (#PCDATA)>
+            <!ELEMENT preu (#PCDATA)>
+            <!ELEMENT Velocitat_de_relotge (#PCDATA)>
+            <!ELEMENT nuclis (#PCDATA)>
+            <!ELEMENT Gigabytes (#PCDATA)>
+            <!ELEMENT socket (#PCDATA)>
+            <!ELEMENT Wats (#PCDATA)>
+
+]>
+
+<PC>
+    <components>
+        <component category="Placa_Base">
+            <Marca> Asus TUF B450-PLUS GAMING </Marca>
+            <preu> 99,95€ </preu>
+        </component>
+        <component category="cpu">
+            <Marca> AMD Ryzen 7 3700X </Marca>
+            <Velocitat_de_relotge>3.6GHz</Velocitat_de_relotge>
+            <nuclis>8 nuclis</nuclis>
+            <preu>319,90€</preu>
+        </component>
+        <component category="ram">
+            <Marca> Corsair Vengance </Marca>
+            <Velocitat_de_relotge> 3200Mh</Velocitat_de_relotge>
+            <Gigabytes>8GB</Gigabytes>
+            <socket>DDR4</socket>
+            <preu>66€</preu>
+        </component>
+        <component category="Targeta_Gràfica">
+            <Marca> RTX 2080TI Gigabyte Geforce</Marca>
+            <Gigabytes>11GB</Gigabytes>
+            <socket>GDDR6</socket>
+            <preu>949€</preu>
+        </component>
+        <component category="Font_alimentació">
+            <Marca> Corsair Plus Gold </Marca>
+            <Wats>750</Wats>
+            <preu> 114,99€ </preu>
+        </component>
+    </components>
+</PC>

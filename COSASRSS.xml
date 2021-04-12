@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <channel>
+            <title>Porsche</title>
+            <description> Concesionari Porsche </description>
+            <link>http://www.Porsche.com</link>
+            <image>
+                <url>https://d1eip2zddc2vdv.cloudfront.net/dphotos/2274792-1557240976.jpg</url>
+                <title>Porsche</title>
+                <link>http://www.Porsche.com</link>
+            </image>
+            <generator>RSS for node</generator>
+            <lastBuildDate>Sun, 24 Jan 2021 15:52:21 GMT</lastBuildDate>
+            <copyright>
+                Derechos reservados de Porsche (Corporacion Porsche)
+            </copyright>
+
+            <language>es</language>
+            <managingEditor>joel.farell.29@lacetania.cat (Joel farell Cabrera)</managingEditor>
+            <ttl>15</ttl>
+            <item>
+                <title> Nuevo modelo Porsche tycan </title>
+                <description> 
+                El Porsche Taycan es una berlina 100% eléctrica de altas prestaciones, 
+                producida por la marca alemana Porsche desde el año 2019. Se trata del 
+                primer coche eléctrico de producción de Porsche, que está construido sobre
+                una plataforma nueva y supone un cambio de paradigma para Porsche.
+                </description>
+                <link>http://www.Porsche.com/noticias-988898</link>
+                <guid isPermaLink="true" >http://www.Porsche.com/noticias-988898</guid>
+                <pubDate>Mon, 11 Jan 2021 12:21:13 GMT</pubDate>
+            </item>
+        </channel>
+    </rss>

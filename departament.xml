@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departament>
+   <persona>
+      <nom>Federic Garcia</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Albert Bru</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Manolito Puigdevall</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Filomenu Pi</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Santiago Rabassa</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Marcel Pupil·la</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Jaume Capmany</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Mohamed Polih</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Juan Pérez</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Filibert Puig</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Bernat Alegria</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Samuel Barnadas</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Felip Martí</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Juanjo Roig</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Magdalena Serra</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Maria Pinta</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Judith González</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Sandra Taylor</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Andreu Verd</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Jaqueline Zumo</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Natasha Koma</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Eli Prisa</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Gori Puig</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Adela Puig</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Toni Cirerer</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Maria de la Llum Brom</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+   <persona>
+      <nom>Teodore Poussin</nom>
+      <telefon/>
+      <companys>
+         <nom>Federic Garcia</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Albert Bru</nom>
+         <email>ab@potas.com</email>
+         <nom>Manolito Puigdevall</nom>
+         <email>manolito@hotmail.com</email>
+         <nom>Filomenu Pi</nom>
+         <email>filo@gmail.com</email>
+         <nom>Santiago Rabassa</nom>
+         <email>santi@destroyer.cat</email>
+         <nom>Marcel Pupil·la</nom>
+         <email>marcel32@hotmail.com</email>
+         <nom>Jaume Capmany</nom>
+         <email>jcp@gmail.com</email>
+         <nom>Mohamed Polih</nom>
+         <email>moha@correus.com</email>
+         <nom>Juan Pérez</nom>
+         <email>jupe@xmailx.com</email>
+         <nom>Filibert Puig</nom>
+         <email>filib@mymail.com</email>
+         <nom>Bernat Alegria</nom>
+         <email>bern@hotmail.com</email>
+         <nom>Samuel Barnadas</nom>
+         <email>samu-samu@barnadas.com</email>
+         <nom>Felip Martí</nom>
+         <email>fmarti@gmail.com</email>
+         <nom>Juanjo Roig</nom>
+         <email>fede@hotmail.com</email>
+         <nom>Magdalena Serra</nom>
+         <email>magda10@kissmail.com</email>
+         <nom>Maria Pinta</nom>
+         <email>maripi@hotmail.com</email>
+         <nom>Judith González</nom>
+         <email>judigonza@mymail.net</email>
+         <nom>Sandra Taylor</nom>
+         <email>sandrat@mail.com</email>
+         <nom>Andreu Verd</nom>
+         <email>verd-clar@tymail.net</email>
+         <nom>Jaqueline Zumo</nom>
+         <email>zumo@sol.es</email>
+         <nom>Natasha Koma</nom>
+         <email>yoda@pissmail.ru</email>
+         <nom>Eli Prisa</nom>
+         <email>elipri@gmail.com</email>
+         <nom>Gori Puig</nom>
+         <email>goripu@hotmail.com</email>
+         <nom>Adela Puig</nom>
+         <email>ade14@yahoo.com</email>
+         <nom>Toni Cirerer</nom>
+         <email>cirerer-florit@correu.cat</email>
+         <nom>Maria de la Llum Brom</nom>
+         <email>marillu@llummail.cat</email>
+         <nom>Teodore Poussin</nom>
+         <email>tpss@hotmail.com</email>
+      </companys>
+   </persona>
+</departament>

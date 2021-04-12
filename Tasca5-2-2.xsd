@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="PC">
+        <xs:complexType> 
+            <xs:sequence>
+                <xs:element ref="components"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="components">
+        <xs:complexType> 
+            <xs:sequence>
+                <xs:element ref="component"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="component">
+        <xs:complexType> 
+            <xs:sequence>
+                <xs:element ref="Marca"/>
+                <xs:element ref="Wats"/>
+                <xs:element ref="Velocitat_de_relotge"/>
+                <xs:element ref="nuclis"/>
+                <xs:element ref="Gigabytes"/>
+                <xs:element ref="socket"/>
+                <xs:element ref="preu"/>
+            </xs:sequence>
+            <xs:attribute name="category" use="required" type="xs:"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Marca" type="xs:string"/>
+    <xs:element name="Wats" type="xs:integer"/>
+    <xs:element name="Velocitat_de_relotge" type="xs:string"/>
+    <xs:element name="nuclis" type="xs:string"/>
+    <xs:element name="Gigabytes" type="xs:string"/>
+    <xs:element name="socket" type="xs:string"/>
+    <xs:element name="preu" type="xs:string"/>
+</xs:schema>

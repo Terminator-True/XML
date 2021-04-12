@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xarxa [
+<!ELEMENT xarxa (domini,ordinadors)>
+    <!ELEMENT domini (#PCDATA)>
+    <!ELEMENT ordinadors (pc)+>
+        <!ELEMENT pc (nom,configuracio,sistemaOperatiu)>
+            <!ATTLIST pc actiu NMTOKEN #REQUIRED>
+            <!ATTLIST pc en_reparacio NMTOKEN #REQUIRED>
+            <!ELEMENT nom (#PCDATA)>
+            <!ELEMENT configuracio (#PCDATA)>
+            <!ELEMENT sistemaOperatiu (#PCDATA)>
+]>
+
+<xarxa>
+    <domini>institut.cat</domini>
+    <ordinadors>
+        <pc actiu="si" en_reparacio="no">
+            <nom>A</nom>
+            <configuracio>dhcp</configuracio>
+            <sistemaOperatiu>Ubuntu 19.04</sistemaOperatiu>
+        </pc>
+        <pc actiu="si" en_reparacio="no">
+            <nom>B</nom>
+            <configuracio>dhcp</configuracio>
+            <sistemaOperatiu>Windows 10</sistemaOperatiu>
+        </pc>
+        <pc actiu="no" en_reparacio="no">
+            <nom>C</nom>
+            <configuracio>dhcp</configuracio>
+            <sistemaOperatiu>Fedora 30</sistemaOperatiu>
+        </pc>
+        <pc actiu="si" en_reparacio="no">
+            <nom>Servidor</nom>
+            <configuracio>IP Fixa</configuracio>
+            <sistemaOperatiu>Ubuntu Server</sistemaOperatiu>
+        </pc>
+        <pc actiu="no" en_reparacio="si">
+            <nom>D</nom>
+            <configuracio>dhcp</configuracio>
+            <sistemaOperatiu>Windows 7</sistemaOperatiu>
+        </pc>
+    </ordinadors>
+</xarxa>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="videogame-colection">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="" >
+        </xs:sequence>
+    </xs:complexType>
+<videogame-colection>
+    <videogame category="Shooter">
+        <title> Doom Eternal </title>
+        <year> 2020 </year>
+        <author> Bethesda </author>
+        <price> 51,99€ </price>
+    </videogame>
+    <videogame category="moba">
+        <title> League of Legends </title>
+        <year> 2010 </year>
+        <author> Riot Games </author>
+        <price> Free to play </price>
+    </videogame>
+    <videogame category="Strategy">
+        <title> Civilization VI </title>
+        <year> 2016 </year>
+        <author> Sid meiers </author>
+        <price> 6,30€ </price>
+    </videogame>
+</videogame-colection>

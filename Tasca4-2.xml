@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE comanda[
+<!ELEMENT comanda (dades,articles)>
+    <!ELEMENT dades (número,data,client)>
+        <!ELEMENT número (#PCDATA)>
+        <!ELEMENT data (#PCDATA)>
+        <!ELEMENT client (nom,poblacio)>
+            <!ATTLIST client online NMTOKEN #REQUIRED>
+            <!ATTLIST client empresa NMTOKEN #REQUIRED>
+            <!ELEMENT nom (#PCDATA)>
+            <!ELEMENT poblacio (#PCDATA)>
+    <!ELEMENT articles (article)+>
+        <!ELEMENT article (codi,descripció)> 
+            <!ELEMENT codi (#PCDATA)>
+            <!ELEMENT descripció (#PCDATA)>
+
+]>
+<comanda>
+    <dades>
+        <número>13</número>
+        <data>2019-10-24</data>
+        <client online="si" empresa="no">
+            <nom>Manel Rovira</nom>
+            <poblacio>Girona</poblacio>
+        </client>
+    </dades>
+    <articles>
+        <article>
+            <codi>687</codi>
+            <descripció>Ratolí</descripció>
+        </article>
+        <article>
+            <codi>129851</codi>
+            <descripció>Pendrive 60 GB</descripció>
+
+        </article>
+    </articles>
+</comanda>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE immobiliaria [
+<!ELEMENT immobiliaria (pis)+>
+    <!ELEMENT pis (tipus,(lloguer|venda),adreca,preu)>
+        <!ATTLIST pis referencia NMTOKEN #REQUIRED>
+        <!ELEMENT tipus (#PCDATA)>
+        <!ELEMENT venda (#PCDATA)>
+        <!ELEMENT lloguer (#PCDATA)>
+        <!ELEMENT adreca (carrer,cp,poblacio)>
+            <!ELEMENT preu (#PCDATA)>
+                <!ATTLIST preu moneda NMTOKEN #REQUIRED>
+            <!ELEMENT carrer (#PCDATA)>
+            <!ELEMENT cp (#PCDATA)>
+            <!ELEMENT poblacio (#PCDATA)>
+]>
+
+<immobiliaria>
+    <pis referencia="P-0450">
+        <tipus>Casa</tipus>
+        <venda/>
+        <adreca>
+            <carrer>Descampat, s/n</carrer>
+            <cp>17999</cp>
+            <poblacio>VilaCard</poblacio>
+        </adreca>
+        <preu moneda="EUR">350000</preu>
+    </pis>
+    <pis referencia="AJ-C-45">
+        <tipus>Pis</tipus>
+        <lloguer/>
+        <adreca>
+         <carrer>Carrer del Boix, 23</carrer>
+         <cp>17001</cp>
+         <poblacio>Girona</poblacio>
+        </adreca>
+        <preu moneda="EUR">750</preu>
+    </pis>
+</immobiliaria>

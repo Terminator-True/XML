@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="videogame-colection">
+        <xs:complexType> 
+            <xs:sequence>
+                <xs:element ref="videogame">
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="videogame">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="title">
+                <xs:element ref="year">
+                <xs:element ref="author">
+                <xs:element ref="price">
+            </xs:sequence>
+            <xs:attribute name="category" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element ref="title">
+    <xs:element ref="year">
+    <xs:element ref="author">
+    <xs:element ref="price">
+<xs:schema>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<!DOCTYPE videogame-colection [
+<!ELEMENT videogame-colection(videogame)+>
+    <!ELEMENT videogame (title,year,author,price)>
+        <!ATTLIST videogame category NMTOKEN #REQUIRED>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT year (#PCDATA)>
+        <!ELEMENT author (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+]>
+
+<videogame-colection>
+    <videogame category="Shooter">
+        <title> Doom Eternal </title>
+        <year> 2020 </year>
+        <author> Bethesda </author>
+        <price> 51,99€ </price>
+    </videogame>
+    <videogame category="moba">
+        <title> League of Legends </title>
+        <year> 2010 </year>
+        <author> Riot Games </author>
+        <price> Free to play </price>
+    </videogame>
+    <videogame category="Strategy">
+        <title> Civilization VI </title>
+        <year> 2016 </year>
+        <author> Sid meiers </author>
+        <price> 6,30€ </price>
+    </videogame>
+</videogame-colection>

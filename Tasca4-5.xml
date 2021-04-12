@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gos [
+    <!ELEMENT gos (edad, nom)>
+        <!ELEMENT edad (#PCDATA)>   
+        <!ELEMENT nom (#PCDATA)>
+]>
+
+<gos>
+    <edad>11</edad>
+    <nom>Luna</nom>
+</gos>

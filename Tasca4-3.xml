@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE jugador [
+<!ELEMENT jugador (dades-personals,temporada)>
+    <!ELEMENT dades-personals (nom,data-naixement,equip)>
+        <!ELEMENT nom (#PCDATA)>
+        <!ELEMENT data-naixement (#PCDATA)>
+        <!ELEMENT equip (#PCDATA)>
+    <!ELEMENT temporada (jornada)+>
+        <!ATTLIST temporada any NMTOKEN #REQUIRED>
+        <!ELEMENT jornada (convocat)>
+            <!ATTLIST jornada num NMTOKEN #REQUIRED>
+            <!ATTLIST jornada mes NMTOKEN #REQUIRED>
+            <!ELEMENT convocat (minuts,posicio,gols?)>
+                <!ELEMENT minuts-jugats (#PCDATA)>
+                <!ELEMENT posicio (#PCDATA)>
+                <!ELEMENT gols (#PCDATA)>
+]>
+
+<jugador>
+    <dades-personals>
+        <nom>Manel Garcia</nom>
+        <data-naixement>15-06-1995</data-naixement>
+        <equip>Manchester de Vilafogosa</equip>
+    </dades-personals>
+    <temporada any="2019">
+        <jornada num="1" mes="setembre">
+            <convocat>
+                <minuts-jugats>0</minuts-jugats>
+                <posicio>Banqueta</posicio>
+            </convocat>
+        </jornada>
+        <jornada num="2" mes="octubre">
+            <convocat>
+                <minuts-jugats>70</minuts-jugats>
+                <posicio>Davanter</posicio>
+                <gols>2</gols>
+            </convocat>
+        </jornada>
+    </temporada>
+</jugador>
